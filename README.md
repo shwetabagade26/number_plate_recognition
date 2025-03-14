@@ -39,7 +39,7 @@ Open your browser and go to:
 ```
 ## Output Screenshots
 ![Index Page Screenshot](images/Index.jpg)
-![Results](images/Result.jpg)
+![Results](images/Result.png)
 
 ### Why CUDA Wasn't Used
 Currently, my laptop storage is limited, and downloading Visual Studio components required for CUDA Toolkit is not possible. After upgrading my storage space, I'll implement CUDA, which will improve OCR speed and accuracy.
