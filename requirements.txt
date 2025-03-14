@@ -3,3 +3,7 @@ OpenCV-python
 pytesseract
 pandas
 easyocr
+gunicorn
+werkzeug
+requests
+flask-cors
