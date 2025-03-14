@@ -1,0 +1,5 @@
+Flask
+OpenCV-python
+pytesseract
+pandas
+easyocr
